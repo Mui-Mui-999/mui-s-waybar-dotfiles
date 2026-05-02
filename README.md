@@ -15,4 +15,4 @@ making sure everything works fine and note thati am using a laptop which has the
 
 anything else like widgets and stuff will be worked on later since this is literally day 1 trying whatever this is 
 
-   "source": "/screenshot"
+   "source": "/screenshot.jpg"
