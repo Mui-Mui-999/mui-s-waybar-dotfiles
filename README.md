@@ -14,5 +14,4 @@ for the monocraft font it is optional since you can change it on the first lines
 making sure everything works fine and note thati am using a laptop which has the arrow keys with page up and down.
 
 anything else like widgets and stuff will be worked on later since this is literally day 1 trying whatever this is 
-
-   "source": "/screenshot.jpg"
+//example on the screenshot//
